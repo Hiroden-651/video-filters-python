@@ -1,0 +1,3 @@
+"""
+    The "Cool-Filter" object.
+"""
