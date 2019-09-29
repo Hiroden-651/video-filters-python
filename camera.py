@@ -38,7 +38,7 @@ class Camera:
     def release_cam(self):
         self.camera.release()
 
-    def choose_filter(self, img)
+    def choose_filter(self, img):
         if self.filter_flag == 0:
             return img
         #elif self.filter_flag == 1:
